@@ -60,7 +60,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load dataset
-data = pd.read_csv('Dataset-1.csv')
+data = pd.read_csv('Dataset.csv')
 
 # Display first few rows
 print(data.head())
